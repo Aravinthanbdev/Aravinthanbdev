@@ -201,7 +201,6 @@ public class Aravinthan {
 | 🐍 | **IBM SkillsBuild Python Programming** | Certified by IBM |
 | 🛠️ | **Full Stack Development Workshop** | Novi Tech R&D Pvt. Ltd. |
 | 🏆 | **Hackathon — Inno-Pulse** | Designed an innovation metrics tracking web application |
-| 🎤 | **Paper Presentation** | Presented at Sri Sai Ranganathan College of Engineering (2025) |
 | 👔 | **Department Secretary** | Led **10+ technical events**, managed coordination for **150+ students** |
 
 </div>
