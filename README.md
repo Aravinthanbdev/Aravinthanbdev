@@ -1,49 +1,50 @@
+<!-- ============ HEADER (animated wave) ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aravinthan%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React.js%20%7C%20Azure&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Aravinthan%20B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=22" width="100%"/>
+</p>
+
+<!-- ============ TYPING ANIMATION ============ -->
+<p align="center">
+  <a href="https://github.com/Aravinthanbdev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&height=50&lines=Hey+there%2C+I%27m+Aravinthan+%F0%9F%91%8B;Spring+Boot+%2B+React.js+Developer;I+build+secure%2C+scalable+REST+APIs;Azure+%7C+CI%2FCD+%7C+Microservices;Open+to+SWE+%26+Full+Stack+roles+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
+</p>
+
+<!-- ============ BADGES ============ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aravinthanbdev&label=Profile%20Views&color=70a5fd&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Aravinthanbdev?label=Followers&style=for-the-badge&color=bf91f3&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Chennai-India-38bdae?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea043?style=for-the-badge&labelColor=0d1117" alt="Open to work"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Aravinthan+B+%F0%9F%91%8B;Java+Full+Stack+Developer+%7C+Spring+Boot+%2B+React.js;Microservices+%7C+REST+APIs+%7C+Azure+%7C+CI%2FCD;Open+to+SWE+and+Full+Stack+Roles" alt="Typing SVG"/>
+  <a href="mailto:aravinthanbdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/aravinthanb1810"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Aravinthanbdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aravinthanbdev&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Aravinthanbdev?label=Followers&style=flat-square&color=bf91f3&labelColor=0d1117" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/Focus-Java%20Full%20Stack-38bdae?style=flat-square&labelColor=0d1117" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-70a5fd?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1&section=header" width="100%"/>
 
----
-
+<!-- ============ ABOUT ============ -->
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```java
 public class Aravinthan {
 
-    String name        = "Aravinthan B";
-    String location    = "Chennai, Tamil Nadu, India";
-    String degree      = "B.E. Computer Science @ EASA College (CGPA: 8.1)";
-    String email       = "aravinthanbdev@gmail.com";
-    String linkedin    = "linkedin.com/in/aravinthanb1810";
-    String github      = "github.com/Aravinthanbdev";
+    String name     = "Aravinthan B";
+    String role     = "Java Full Stack Developer";
+    String degree   = "B.E. CSE @ EASA College (CGPA 8.1)";
+    String location = "Chennai, Tamil Nadu, India";
 
     String[] stack = {
         "Java", "Spring Boot", "React.js",
-        "MongoDB", "REST APIs", "Microservices",
-        "Azure", "GitHub Actions", "JWT"
+        "MongoDB", "Azure", "GitHub Actions"
     };
-
-    String[] currentlyLearning = {
-        "System Design & Distributed Systems",
-        "DSA — LeetCode Grind (NeetCode 150)",
-        "Spring Security Advanced Patterns",
-        "Docker & Kubernetes Fundamentals"
-    };
-
-    String funFact = "I built 45+ REST API endpoints "
-                   + "for a single college networking platform!";
 
     String motto() {
         return "Write code that scales. "
@@ -52,7 +53,16 @@ public class Aravinthan {
 }
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding"/>
+
+</td>
+</tr>
+</table>
+
+> 💡 **Fun fact:** I built **45+ REST API endpoints** for a single college networking platform.
 
 ---
 
@@ -60,13 +70,157 @@ public class Aravinthan {
 
 <div align="center">
 
-| 🗂️ Category | ⚡ Technologies |
-|:---|:---|
-| **Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> |
-| **Frameworks & Libraries** | <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/> <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> |
-| **Cloud & DevOps** | <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/> |
-| **Databases** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/REST%20APIs-38BDAE?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/> <img src="https://img.shields.io/badge/Agile%2FScrum-BF91F3?style=flat-square&logo=jira&logoColor=white" alt="Agile"/> |
+<table>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="Languages"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Frameworks</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=spring,react,bootstrap,tailwind&theme=dark" alt="Frameworks"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Cloud &amp; DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=azure,aws,githubactions,docker&theme=dark" alt="Cloud and DevOps"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" alt="Tools"/>
+</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/REST%20APIs-38BDAE?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+<img src="https://img.shields.io/badge/Microservices-70a5fd?style=flat-square" alt="Microservices"/>
+<img src="https://img.shields.io/badge/Agile%2FScrum-BF91F3?style=flat-square&logo=jira&logoColor=white" alt="Agile"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+### 🎓 [Alumni Portal](https://github.com/Aravinthanbdev/Alumini-Connect)
+*College networking platform*
+
+🔑 Multi-role system (Student / Alumni / Admin) with JWT RBAC<br/>
+📡 45+ RESTful endpoints<br/>
+🗄️ 11 MongoDB collections<br/>
+🤝 Mentorship workflow + messaging
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,mongodb&theme=dark" alt="Alumni Portal stack"/>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🔧 [NearFix](https://github.com/Aravinthanbdev/NearFix)
+*Local service finder*
+
+☁️ Deployed on Microsoft Azure<br/>
+⚙️ CI/CD via GitHub Actions<br/>
+⚡ ~25% faster data retrieval with MongoDB indexing<br/>
+🧩 Microservices-ready architecture
+
+<img src="https://skillicons.dev/icons?i=java,spring,mongodb,azure,githubactions&theme=dark" alt="NearFix stack"/>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🏠 [Hostel Management](https://github.com/Aravinthanbdev/Hostel-Management-System)
+*Institution platform*
+
+👥 4 roles: Owner / Warden / Student / Guard<br/>
+🔐 BCrypt hashing + CORS production security<br/>
+🔁 Axios interceptors for seamless API calls
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql&theme=dark" alt="Hostel Management stack"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="22%" align="center" valign="top">
+<b>Dec 2025 – Apr 2026</b><br/>
+<sub>Coimbatore</sub>
+</td>
+<td valign="top">
+<b>Java Full Stack Development Intern</b> · AISECT Ltd. (with Capgemini)<br/>
+• Built <b>5+ secure REST APIs</b> with Spring Boot and MongoDB, following microservices design principles<br/>
+• Cut backend response time by <b>~20%</b> through query optimization and indexing<br/>
+• Worked in full Agile sprint cycles and integrated React.js with the Spring Boot backend end to end
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<b>Aug 2025 – Sep 2025</b><br/>
+<sub>Remote</sub>
+</td>
+<td valign="top">
+<b>Frontend Development Intern</b> · AICTE – Edunet Foundation (IBM)<br/>
+• Built <b>8+ responsive UI components</b> and pages with React.js, HTML, CSS and JavaScript<br/>
+• Integrated frontend modules with backend REST APIs<br/>
+• Followed Agile practices and collaborative Git workflows
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<b>Jun 2025 – Jul 2025</b><br/>
+<sub>Remote</sub>
+</td>
+<td valign="top">
+<b>Full Stack Development Intern</b> · Pinnacle Labs<br/>
+• Developed backend logic for <b>3+ modules</b> in Java<br/>
+• Resolved <b>10+ functional and performance bottlenecks</b> during testing<br/>
+• Supported testing, documentation and release activities
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+| 🎖️ | Milestone | Detail |
+|:---:|:---|:---|
+| 🎓 | **B.E. Computer Science** | EASA College · 2022 – 2026 · CGPA 8.1 |
+| ☕ | **Oracle Java Foundations** | Oracle |
+| ☁️ | **OCI 2023 AI Foundations Associate** | Oracle Cloud Infrastructure |
+| 🐍 | **Python Programming** | IBM SkillsBuild |
+| 🏆 | **Hackathon: Inno-Pulse** | Innovation metrics tracking web app |
+| 🎤 | **Paper Presentation** | Sri Sai Ranganathan College of Engineering (2025) |
+| 🛠️ | **Full Stack Workshop** | Novi Tech R&D Pvt. Ltd. |
+| 👔 | **Department Secretary** | Led 10+ technical events for 150+ students |
 
 </div>
 
@@ -75,17 +229,9 @@ public class Aravinthan {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Aravinthanbdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aravinthanbdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/Aravinthanbdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinthanbdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aravinthanbdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinthanbdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
 </div>
-
----
-
-## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aravinthanbdev&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
@@ -102,154 +248,32 @@ public class Aravinthan {
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Aravinthanbdev/Aravinthanbdev/output/github-snake-dark.svg" width="100%"/>
   </picture>
 </p>
+
 ---
 
-## 🏆 Highlights
+## 🌱 Currently Learning
 
 <div align="center">
 
-| 🥇 | Milestone | Detail |
-|:---:|:---|:---|
-| 🎓 | B.E. Computer Science Graduate | EASA College — 2026 |
-| ☕ | Oracle Certified | Java Foundations — Oracle |
-| ☁️ | OCI AI Foundations | Oracle Cloud Infrastructure 2023 |
-| 🐍 | IBM Certified | Python Programming — IBM SkillsBuild |
-| 👔 | Department Secretary | Led 10+ events, 150+ students |
-| 🏆 | Hackathon | Built Inno-Pulse — Innovation Metrics Web App |
-| 🎤 | Paper Presentation | Sri Sai Ranganathan College of Engineering (2025) |
-| 🔧 | 50+ REST APIs | Across Alumni Portal, NearFix & HMS projects |
+| 📐 System Design | 🧮 DSA | 🔐 Spring Security | 🐳 Containers | 🌐 React Deep Dive |
+|:---:|:---:|:---:|:---:|:---:|
+| Distributed systems<br/>CAP theorem<br/>Load balancing | NeetCode 150<br/>Trees · Graphs · DP | OAuth2<br/>Advanced JWT<br/>CSRF hardening | Docker<br/>Compose<br/>Kubernetes intro | Hooks<br/>Context API<br/>Performance |
 
 </div>
 
 ---
 
-## 💼 Work Experience
-
-<details>
-  <summary><b>🏢 AISECT Ltd. (in collaboration with Capgemini) — Java Full Stack Development Intern | Dec 2025 – Apr 2026 | Coimbatore, India</b></summary>
-  <br/>
-
-  > <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  > <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  > <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  > ![REST APIs](https://img.shields.io/badge/REST%20APIs-38BDAE?style=flat-square)
-  > ![Agile](https://img.shields.io/badge/Agile%2FScrum-BF91F3?style=flat-square)
-
-  - 🔧 Developed **5+ secure REST APIs** following microservices design principles using Spring Boot and MongoDB, with strong attention to API design and error handling.
-  - ⚡ Reduced backend response time by **~20%** through query optimization and indexing strategies.
-  - 🤝 Participated in full **Agile sprint cycles** — daily standups, sprint planning, and code reviews — collaborating with cross-functional teams.
-  - 🔗 Integrated React.js frontend with Spring Boot backend services end-to-end in a collaborative team environment.
-
-</details>
-
-<details>
-  <summary><b>🏢 AICTE – Edunet Foundation (IBM) — Frontend Development Intern | Aug 2025 – Sep 2025 | India (Remote)</b></summary>
-  <br/>
-
-  > <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  > <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  > <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  > <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-
-  - 🎨 Built **8+ responsive UI components** and pages using React.js, HTML, CSS, and JavaScript, adapting quickly to evolving design requirements.
-  - 🔗 Integrated frontend modules with backend REST APIs, ensuring consistent and seamless data flow across the application.
-  - 🔄 Followed Agile development practices and collaborative Git workflows across concurrent team tasks.
-  - 📱 Delivered production-ready responsive designs aligned with IBM/AICTE design standards.
-
-</details>
-
-<details>
-  <summary><b>🏢 Pinnacle Labs — Full Stack Development Intern | Jun 2025 – Jul 2025 | India (Remote)</b></summary>
-  <br/>
-
-  > <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  > <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  > <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-
-  - 🧩 Developed backend logic for **3+ application modules** in Java, independently learning new design patterns to meet project requirements.
-  - 🐛 Identified and resolved **10+ functional and performance bottlenecks** during testing cycles, documenting findings and communicating solutions to team leads.
-  - 📋 Supported testing, documentation, and release activities following structured development and deployment workflows.
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
-|:---|:---|:---|
-| [**Alumni Portal**](https://github.com/Aravinthanbdev/Alumini-Connect) — College Networking Platform | Java · Spring Boot · React.js · MongoDB · JWT | 🔑 Multi-role system (Student/Alumni/Admin) with JWT RBAC · 45+ RESTful endpoints · 11 MongoDB collections · Mentorship workflow + real-time-ready messaging |
-| [**NearFix**](https://github.com/Aravinthanbdev/NearFix) — Local Service Finder | Java · Spring Boot · MongoDB · Azure · GitHub Actions | ☁️ Deployed on Microsoft Azure · CI/CD via GitHub Actions · ~25% faster data retrieval via MongoDB indexing · Microservices-ready architecture |
-| [**Hostel Management System**](https://github.com/Aravinthanbdev/Hostel-Management-System) — Institution Platform | Java · Spring Boot · React.js · SQL · JWT | 🏠 4-role system (Owner/Warden/Student/Guard) · BCrypt hashing · CORS production security · Axios interceptors for seamless API communication |
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🎖️ | Achievement | Details |
-|:---:|:---|:---|
-| 🎓 | **B.E. Computer Science** | CGPA **8.1** — EASA College of Engineering & Technology (2022–2026) |
-| ☕ | **Oracle Java Foundations** | Certified by Oracle |
-| ☁️ | **Oracle Cloud Infrastructure 2023 AI Foundations Associate** | OCI AI Certified — Oracle |
-| 🐍 | **IBM SkillsBuild Python Programming** | Certified by IBM |
-| 🛠️ | **Full Stack Development Workshop** | Novi Tech R&D Pvt. Ltd. |
-| 🏆 | **Hackathon — Inno-Pulse** | Designed an innovation metrics tracking web application |
-| 👔 | **Department Secretary** | Led **10+ technical events**, managed coordination for **150+ students** |
-
-</div>
-
----
-
-## 🎓 Education & Currently Learning
-
-<div align="center">
-
-| 📜 Degree | 🏫 Institution | 📅 Year | 🏆 Score |
-|:---|:---|:---:|:---:|
-| B.E. in Computer Science & Engineering | EASA College of Engineering & Technology, Coimbatore | 2022 – 2026 | **8.1 CGPA** |
-
-</div>
-
-<br/>
-
-```text
-🧱 Currently Learning → Roadmap
-
-   📐 System Design          → Distributed Systems · CAP Theorem · Load Balancing
-   🧮 DSA & Algorithms       → LeetCode 150 (NeetCode) · Trees · Graphs · DP
-   🔐 Spring Security        → OAuth2 · Advanced JWT Patterns · CSRF Hardening
-   🐳 Containerization       → Docker Basics → Docker Compose → Kubernetes Intro
-   ⚙️  Cloud Architecture    → Azure App Services · Azure Functions · CI/CD Pipelines
-   🌐 Frontend Deep Dive     → React Hooks · Context API · Performance Optimization
-```
-
----
-
-## 📬 Connect With Me
+## 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:aravinthanbdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/aravinthanb1810">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Aravinthanbdev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="mailto:aravinthanbdev@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-aravinthanbdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <i>💡 "Write code that scales. Build products that matter."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=BF91F3&center=true&vCenter=true&width=600&lines=Write+code+that+scales.;Build+products+that+matter." alt="Motto"/>
 </p>
 
+<!-- ============ FOOTER (animated wave) ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=fadeIn" width="100%"/>
 </p>
