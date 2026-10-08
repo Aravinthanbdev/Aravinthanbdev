@@ -27,7 +27,7 @@ public class Aravinthan {
     String degree      = "B.E. Computer Science @ EASA College (CGPA: 8.1)";
     String email       = "aravinthanbdev@gmail.com";
     String linkedin    = "linkedin.com/in/aravinthanb1810";
-    String github      = "github.com/Aravinthpvm";
+    String github      = "github.com/Aravinthanbdev";
 
     String[] stack = {
         "Java", "Spring Boot", "React.js",
