@@ -118,12 +118,15 @@ public class Aravinthan {
 
 ---
 
-## 📈 Activity Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravinthanbdev&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aravinthanbdev/Aravinthanbdev/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aravinthanbdev/Aravinthanbdev/output/github-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Aravinthanbdev/Aravinthanbdev/output/github-snake-dark.svg" width="100%"/>
+  </picture>
 </p>
-
 ---
 
 ## 🏆 Highlights
