@@ -52,7 +52,7 @@
 </picture>
 
 <img src="./assets/title-learning.svg" width="100%" alt="Currently Learning"/>
-<img src="./assets/orbit.svg" width="100%" alt="Currently learning"/>
+<img src="./assets/orbit.svg" width="110%" alt="Currently learning"/>
 
 <img src="./assets/footer.svg" width="100%" alt="Let's build something great together"/>
 
